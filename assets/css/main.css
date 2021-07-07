@@ -82,7 +82,13 @@ a {
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
 }
-
+.content {
+  margin: 0 auto;
+  padding: 10rem 0 0;
+  position: relative;
+  min-height: 600px;
+}
+}
 audio,
 canvas,
 iframe,
